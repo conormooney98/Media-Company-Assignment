@@ -28,7 +28,7 @@ When the program is run, it can be done in its entirety. i.e. Select All -> Conr
     <img width="702" alt="remove na from join" src="https://user-images.githubusercontent.com/47594808/103806065-6197b180-504c-11eb-8b7f-4b6910a98771.PNG">
 
 ### Click Through Rate
-*    Click through rate is the ratio of users who clicked over the total users who viewed(impressions). It is commonly used to measure the degree of success in the online advertising industry.
+*    Click through rate is the ratio of users who clicked over the total users who viewed (impressions). It is commonly used to measure the degree of success in the online advertising industry.
     <img width="748" alt="CTR" src="https://user-images.githubusercontent.com/47594808/103806271-ae7b8800-504c-11eb-9036-15382a996644.PNG">
 
 ### Cost Per Impression
