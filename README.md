@@ -2,13 +2,13 @@
 This markdown file explains the functionality of the program in analysing advertising data for marketing purposes. The program should run on any data with the same file and column names substituted for the sample data. The program analyses ads where data on impressions, clicks and conversions is collected for a media company. This program can be run and this markdown file can be followed to produced real time analysis for anyone in the company who may want to carry out advertising analysis.
 
 ## Running of the program
-When the program is run, it can be done in its entirety. i.e. Select All -> Conrol Enter. Before running, check to ensure that the packages in the R file are correctly installed and loaded in. The files need to be imported into the correct enviroment for the analysis to run. The program is ran under various headings and is structured as follows;
+When the program is run, it can be done in its entirety. i.e. Select All -> Conrol Enter. Before running, check to ensure that the packages in the R file are correctly installed and loaded in. The files need to be in the correct enviroment and imported into the program for the analysis to run. To display tables of the new dataframes created, click on the dataframe in the righthand side of the program under 'Enviroment'. The plots can be viewed in the display under 'Plots' on the right hand side of the program and easily manouvered through with the left and right arrow to find any of the graphs. At any stage, the tables and plots can be called in the console for a faster search. The program is ran under various headings and is structured as follows;
 
 ### Import libraries
-    The libraries should be available, when installed and called.
+    The libraries should be available, when installed and called correctly, as is in the file.
 
 ### Import datasets
-    The datasets should read in and view (dataset) should allow you to view the dataset and clarify if it has been done so correctly
+    The datasets should imported, as shown in the R file. Then, view(dataset) should allow you to view the dataset and clarify if it has been done so correctly
 
 ### Check for missing data
     The sample dataset did not have any missing data, but it is good to check for any data gaps. The dataset tested will probably be much larger than the sample dataset, so it is best to check at the begining of the project for any possible set backs.
