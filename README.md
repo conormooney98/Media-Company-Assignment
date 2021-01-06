@@ -65,7 +65,7 @@ When the program is run, it can be done in its entirety. i.e. Select All -> Conr
      <img width="430" alt="Histogram" src="https://user-images.githubusercontent.com/47594808/103809746-de795a00-5051-11eb-930d-c7009113977f.PNG">
 
 ### Cumulative probability(emperical cumulative density function)(cpc)
-*    Calculates the cumulative probabilities and plots each of them for cost per click.
+*    Calculates the cumulative probabilities and plots each of them for cost per click. The function in the console also shows the calcualtions in order.
     <img width="424" alt="cumulative prob plot" src="https://user-images.githubusercontent.com/47594808/103810051-79723400-5052-11eb-855c-c329851f5795.PNG">
     <img width="181" alt="cumulative probability" src="https://user-images.githubusercontent.com/47594808/103810184-b76f5800-5052-11eb-8e6c-fb2e2cd27749.PNG">
 
